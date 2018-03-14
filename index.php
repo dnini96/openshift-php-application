@@ -15,7 +15,7 @@ CTYPE html>
 </head>
 <body>
 <div class="box">
-	<h1>PHP application</h1>
+	<h1>PaP application</h1>
 	<h2>Hostname: <?php echo gethostname(); ?></h2>
 </div>
 </body>
